@@ -1355,5 +1355,5 @@ elif section == "Aracruz Case Study":
     
 # Footer
 st.divider()
-st.caption("© 2025 Derivatives Study Case Teaching Tool | Developed for educational purposes")
+st.caption("© 2025 Derivatives Case Study Teaching Tool | Developed for educational purposes")
 st.caption("Prof. José Américo – Coppead")
